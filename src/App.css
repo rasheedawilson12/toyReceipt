@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: pink;
+  margin: 10px 0;
+  padding: 0;
+}
+
+.Receipts {
+  background-color: lightblue;
+  border: solid black;
+  margin: 20px auto;
+  width: 40%;
+}
+
+.Receipts li {
+  text-align: center;
+  list-style: none;
+  font-size: 20px;
+}
